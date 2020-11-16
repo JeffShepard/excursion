@@ -1,9 +1,11 @@
 * {
-font-family: Verdana;    
+font-family: Verdana, sans-serif;    
 color: white;
 background-color: black;
 text-align: center;
+margin: auto 0px;
 }
+
 
 header {
     font-weight: normal;
@@ -14,4 +16,39 @@ header {
 .links {
     color: aquamarine;
     font-size: 16px;
+
 }
+
+video {
+    margin:40px 0 40px 0;
+}
+
+.large {
+    font-weight: 300;
+    font-size: 42px;
+    margin-bottom: 40px;
+}
+
+#text {
+    color:gray;
+    font-size: 21px;
+    margin-bottom: 40px;
+}
+
+#camp {
+    max-width: 100%;
+}
+
+#iphone {
+    margin: 20px 0 40px 0;
+}
+
+#end {
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+    padding: 40px;
+}
+
+
+
